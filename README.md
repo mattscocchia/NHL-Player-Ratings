@@ -1,6 +1,6 @@
 # NHL-Player-Ratings
 ## Introducing the [ScotiaStat](https://linktr.ee/scotiastat) Player Rating system.
-These ratings are intended to be a catch-all metric to value a player's performance both defensively, and offensively. They are far from perfect, but they are an attempt at taking (free) publicly sourced data and utilizing it to build a player performance evaluation metric. They are based on the "all-in-one player value stat" (Net Rating) that Dom Luszczyszyn at The Athletic has made. I have tried to design this to be easy to reproduce and/or alter.
+These ratings are intended to be a catch-all metric to value a player's performance both defensively, and offensively. They are far from perfect, but they are an attempt at taking (free) publicly sourced data and utilizing it to build a player performance evaluation metric. They are inspired by the "all-in-one player value stat" (Net Rating) that Dom Luszczyszyn at The Athletic has made. I have tried to design this to be easy to reproduce and/or alter.
 
 The player and team statistics are from [MoneyPuck](https://moneypuck.com/data.htm) and the Woodmoney data is from [PuckIq](https://puckiq.com/woodmoney)
 
