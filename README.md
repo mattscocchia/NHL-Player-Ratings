@@ -14,12 +14,12 @@ The rating magnitudes are designed to be the total amount of goals better than a
 ---
 
 
-I will be adding more in depth comments when I have the time to. I will also add new code when I have new changes or additions. Unless my commitments change, I will be tirelessly working on this behind the scenes. If you have any comments/suggestions/feedback or want to be a part of this somehow, please let me know. I am open to hearing how you think this can be improved. You can message me on any method you prefer [X](https://x.com/ScotiaStat), [Instagram](https://www.instagram.com/scotiastathockey), [Email](matthewscocchia@gmail.com). 
+I will be adding more in depth comments when I have the time to. I will also add new code when I have new changes or additions. Unless my commitments change, I will be tirelessly working on this behind the scenes. If you have any comments/suggestions/feedback, please let me know as I am open to hearing how you think this can be improved. You can message me on any method you prefer [X](https://x.com/ScotiaStat), [Instagram](https://www.instagram.com/scotiastathockey), [Email](matthewscocchia@gmail.com). 
 
 
 ---
 
 
-If I have time in the future, I will try to add code for more open source hockey related advanced statistics/ratings/models, but for now this is all I have to share. Also, please feel free to copy this and make it your own. It is meant to be used as a starting point.
+If I have time in the future, I will try to add code for more open source hockey related advanced statistics/ratings/models, but for now this is all I have to share. Please feel free to copy this and make it your own, it is meant to be used as a starting point.
 
 Enjoy
